@@ -1,4 +1,4 @@
-#' Convert stops and shapes to Simple Features#' 
+#' Convert stops and shapes to Simple Features 
 #' 
 #' Stops are converted to POINT sf data frames. Shapes are created as
 #' LINESTRING data frame. Note that this function replaces stops and shapes
